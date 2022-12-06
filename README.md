@@ -7,7 +7,7 @@
 - 😎 Open to contracting opportunities if the project sounds cool.
 - 🏢 Previously a Software Engineer at **Alts solution** 
 - ⚙️ Love workin with:  `.js`,`.json`,
-- 🌱 Learning more about and studying: **open source, algorithms, data structure, system design, scaling**
+- 🌱 Learning more about and studying: **open source, algorithms, data structure, system design**
 - 📫 Reach me asap: muscat-balkier06@icloud.com
 - 💜 Interests: Football :football:
 - 😄 Passionate about accessibility and committed to a web that works for everyone
