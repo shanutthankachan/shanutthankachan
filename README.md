@@ -4,7 +4,7 @@
 
 
 - ❤️ Making a difference and improving Software @ **PlateRate,NYC. USA**
-- 😎 Open to contracting opportunities if the project sounds cool.
+<!--  - 😎 Open to contracting opportunities if the project sounds cool. --> 
 - 🏢 Previously a Software Engineer at **Alts solution** 
 - ⚙️ Love workin with:  `.js`,`.json`,
 - 🌱 Learning more about and studying: **open source, algorithms, data structure, system design**
