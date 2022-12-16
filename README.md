@@ -5,7 +5,7 @@
 
 - ❤️ Making a difference and improving Software @ **PlateRate,NYC. USA**
 <!--  - 😎 Open to contracting opportunities if the project sounds cool. --> 
-- 🏢 Previously a Software Engineer at **Alts solution** 
+- 🏢 Previously a Software Engineer at **Alts solutions LLP** 
 - ⚙️ Love workin with:  `.js`,`.json`,
 - 🌱 Learning more about and studying: **open source, algorithms, data structure, system design**
 - 📫 Reach me asap: muscat-balkier06@icloud.com
