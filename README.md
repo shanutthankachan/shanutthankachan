@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Shanu T Thanakchan](https://www.linkedin.com/in/shanu-t-thankachan/)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hello, I'm [Shanu T Thanakchan](https://www.linkedin.com/in/shanu-t-thankachan/)
 
 #### I work as a Full Stack Software Engineer based in Kochi, India.
 
