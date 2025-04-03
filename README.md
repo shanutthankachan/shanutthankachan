@@ -7,7 +7,7 @@
 - 🏢 Previously a Software Engineer at **Alts solutions LLP** 
 - ⚙️ Love workin with:  `.js`,`.ts`,`.json`,
 - 🌱 Learning more about and studying: **open source, algorithms, data structure, system design**
-- 📫 Reach me asap: muscat-balkier06@icloud.com
+- 📫 Reach me : muscat-balkier06@icloud.com
 - 💜 Interests: Football :football:
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
